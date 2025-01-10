@@ -3,7 +3,7 @@ function App() {
 
   return (
     <>
-      <h1 className="text-4xl roboto font-bold">
+      <h1 className="text-4xl sans">
         Koło Studentów
       </h1>
     </>
